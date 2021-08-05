@@ -6,9 +6,14 @@ O controle das tarefas desse projeto será realizad no GitHub
 
 ## ícones
 
-:package: Nova funcionalidade
-:up: Atualização
-:beatle: Correção de bug
-:checkred_flag: release 
+- :package: Nova funcionalidade
+- :up: Atualização
+- :beetle: Correção de bug
+- :checkred_flag: release 
+
+    ##Menu feito adcionado efeitos visuais 
+- :package: Nova funcionalidade
+- :up: Atualização
+
 
 
