@@ -17,3 +17,8 @@ O controle das tarefas desse projeto será realizad no GitHub
 
 
 
+    ##Criação cards e formulários de orçamento
+
+:package: Novas funcionalidades
+:up: Atualização
+
